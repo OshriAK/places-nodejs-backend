@@ -1,8 +1,0 @@
-{
-    "env": {
-        "DB_USER": "oshriRW",
-        "DB_PASSWORD":"J2urjqrGwh2q5Ook",
-        "DB_NAME": "mern-prod",
-        "JWT_KEY": "supersecret_dont_share"
-    }
-}
